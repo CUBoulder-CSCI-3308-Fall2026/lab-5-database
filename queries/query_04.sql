@@ -1,2 +1,3 @@
+-- Remember to include SQL commands and their output
 
 
